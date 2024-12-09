@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  body::-webkit-scrollbar-track {
+    /* box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.3); */
+    box-shadow: transparent;
+  }
+  
+  body::-webkit-scrollbar-thumb {
+    background-color: #9d9c9c;
+    outline: 1px solid #c5c6c6;
+    border-radius: 20px;
+  }
+  
+  ::-webkit-scrollbar {
+    width: 9px; /* You can adjust the width as needed */
+    height: 9px; /* You can adjust the width as needed */
+  }
+  
+  /* Style the scrollbar thumb */
+  ::-webkit-scrollbar-thumb {
+    background-color: #c4c0c0; /* Change the color as needed */
+    border-radius: 6px; /* You can adjust the border radius */
+  }
