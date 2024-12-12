@@ -1,6 +1,6 @@
-# Create React App Project
+# Loan Management Project Using React JS and Firebase
 
-Welcome to the **[Project Name]**! This project is a React-based application created using [Create React App](https://github.com/facebook/create-react-app). Its primary goal is to [briefly describe purpose].
+Welcome to the **Loan Management System**! This project is a React-based application.
 
 ## 🌐 Connect with Me
 - [🌍 CodingMSTR Website](https://codingmstr.com)
